@@ -1,4 +1,4 @@
-# CS50p
+# CS50P
 CS50's Introduction to Programming with Python
 
 This repo contains my approach to solving each of the problem sets from Harvard's CS50P. <br>
