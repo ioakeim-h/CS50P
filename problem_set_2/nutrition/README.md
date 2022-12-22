@@ -1,6 +1,6 @@
 # Web scraping with pandas
 
-Using pandas to extract the data required to complete the exercise by CS50p. Exercise instructions are also available <a href="https://cs50.harvard.edu/python/2022/psets/2/nutrition/">here</a>.
+Using pandas to extract the data required to complete the <a href="https://cs50.harvard.edu/python/2022/psets/2/nutrition/">exercise by CS50P</a>.
 
 "In a file called nutrition.py, implement a program that prompts consumers users to input a fruit (case-insensitively) and then outputs the number of 
 calories in one portion of that fruit, per the FDA’s poster for fruits, which is also
